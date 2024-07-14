@@ -28,7 +28,7 @@ body {
 
 /* 1-timer */
 
-input {
+/* input {
   box-sizing: border-box;
   width: 272px;
   height: 40px;
@@ -102,12 +102,12 @@ button:disabled {
   line-height: 1.5;
   color: #2e2f42;
   text-transform: uppercase;
-}
+} */
 
 
 /* 2-snackbar */
 
-.form {
+/* .form {
   box-sizing: border-box;
   width: 360px;
   font-size: 16px;
@@ -148,7 +148,7 @@ button:disabled {
   margin-left: 48px;
 }
 
-buttont {
+button {
   border-radius: 8px;
   border: transparent;
   padding: 8px 16px;
@@ -161,6 +161,6 @@ buttont {
   font-size: 16px;
 }
 
-buttont:hover {
+button:hover {
   background: #6c8cff;
-}
+} */
